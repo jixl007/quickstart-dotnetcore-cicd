@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ci",
+    "\\WebApplicationSample",
+    "\\WebApplicationSample\\Pages"
   ],
+  "SelectedNode": "\\WebApplicationSample",
   "PreviewInSolutionExplorer": false
 }

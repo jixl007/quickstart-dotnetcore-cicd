@@ -35,3 +35,4 @@ C:\Users\jixl\source\repos\jixl007\quickstart-dotnetcore-cicd\WebApplicationSamp
 C:\Users\jixl\source\repos\jixl007\quickstart-dotnetcore-cicd\WebApplicationSample\obj\Debug\netcoreapp3.1\WebApplicationSample.pdb
 C:\Users\jixl\source\repos\jixl007\quickstart-dotnetcore-cicd\WebApplicationSample\obj\Debug\netcoreapp3.1\WebApplicationSample.genruntimeconfig.cache
 C:\Users\jixl\source\repos\jixl007\quickstart-dotnetcore-cicd\WebApplicationSample\obj\Debug\netcoreapp3.1\WebApplicationSample.csproj.CopyComplete
+C:\Users\jixl\source\repos\jixl007\quickstart-dotnetcore-cicd\WebApplicationSample\obj\Debug\netcoreapp3.1\WebApplicationSample.csproj.AssemblyReference.cache
